@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seda Mencik</h1>
 <h3 align="center">Computer Engineering Student at Sakarya University</h3>
 
-- 🌱 I’m currently learning **image processing with C++**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **seda.mencik@gmail.com**
 
