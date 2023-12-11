@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seda Mencik</h1>
 <h3 align="center">Computer Engineering Student at Sakarya University</h3>
 
-- 🌱 I’m currently Assistant **SAP ABAP** Developer in Koçtaş AŞ
+- 🌱 I am currently a **SAP ABAP** developer assistant at Koçtaş AŞ.
 
 - 📫 How to reach me **seda.mencik@gmail.com**
 
